@@ -1,0 +1,7 @@
+
+
+java:S1192"TDefine a constant instead of duplicating this literal "Consumer Record: {}" 3 times.(ÔŞJ$220edd09-83da-482c-b745-68f75e7401cb
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞJ$08e92e58-39f7-4ab5-a436-e69b8a7034cb
+	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÿçşúÿÿÿÿJ$b2a9b3b0-e2f8-49cf-84eb-b2f378dd8226
+‰	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¡Î«J$55ecdfbf-521c-41b1-a88b-83ecef6085f5

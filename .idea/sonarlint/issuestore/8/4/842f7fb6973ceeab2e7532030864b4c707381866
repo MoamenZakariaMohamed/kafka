@@ -1,0 +1,9 @@
+
+†	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$a719ab87-7703-4ac4-8c01-e6910f3ff791
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­­“¾ûÿÿÿÿJ$51d47085-c80e-4f17-aa2c-f157d736ccba
+Í
+java:S1130"‹Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException', as it cannot be thrown from method's body.(­­“¾ûÿÿÿÿJ$100d9c50-95e0-4dfb-aac0-6f61f00eb92e
+‰	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ“ÀJ$27ea7f41-d8df-4562-8765-279e4e828bf7
+k	java:S1066"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$7ae94e9f-efdb-442e-b400-cff10b217127
+q
+java:S1172N"5Remove these unused method parameters "key", "value".(Üé¦J$b17d2537-0717-4b35-9276-b7fad555c6c1

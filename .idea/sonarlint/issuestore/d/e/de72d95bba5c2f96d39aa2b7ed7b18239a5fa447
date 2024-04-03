@@ -1,0 +1,19 @@
+
+p
+java:S3740,"/Provide the parametrized type for this generic.(×Èû©ûÿÿÿÿJ$f4ee351e-7313-4781-aa6a-5a2ea23e9f03
+
+java:S14882"aImmediately return this expression instead of assigning it to the temporary variable "recoverer".(¿««×J$baa8f7b4-dbb1-4c17-b434-f4a5ddeeff5e
+~
+java:S6813+"BRemove this field injection and use constructor injection instead.(êæÄŞJ$68a8564a-ee2f-4fa4-9111-7b32b3ccdad6
+{
+java:S6213@":Rename this variable to not match a restricted identifier.(Ã‹â„øÿÿÿÿJ$6d92802d-e56a-4a5c-997d-23cac46041ab
+
+java:S1854Q"@Remove this useless assignment to local variable "fixedBackOff".(ğƒ£‚şÿÿÿÿJ$93a54c27-46b2-4f1f-9730-f1917f6c26ec
+r
+java:S1481Q"1Remove this unused "fixedBackOff" local variable.(ğƒ£‚şÿÿÿÿJ$1ba794da-7804-468d-989d-170dbac7af76
+h
+java:S1602c",Remove useless curly braces around statement(Ş§¬ŒJ$f15a04c4-2f8c-4817-9eb4-85643715f5dd
+g
+java:S1452l"&Remove usage of generic wildcard type.(÷æÜøÿÿÿÿJ$5e57841e-1443-41c3-8ec4-fcb882c7b6cb
+g
+java:S1452l"&Remove usage of generic wildcard type.(÷æÜøÿÿÿÿJ$36ef6a39-1bf2-4a0b-b523-eb1bc2cac179
